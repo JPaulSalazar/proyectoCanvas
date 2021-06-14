@@ -1,0 +1,8 @@
+body { margin: 0; }
+.picture{
+  display: none;
+}
+canvas {
+    background-image: url('./img/ilustracion.jpg');
+	background-size: cover;
+}
